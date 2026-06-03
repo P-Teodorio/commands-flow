@@ -1,7 +1,8 @@
 # FLuxo
 
 - Coloque o arquivo templates na pasta do projeto que vai usar
--  Use o prompt abaixo (Vai virar um comando tambem):
+- Gere contexto em modo plan
+- Use o prompt abaixo (Vai virar um comando tambem):
 ```
 Usando os templates em @<path-templates> crie os arquivos INDEX.md, CONTEXT.md e DISCOVERY.md de forma semantica baseado no nosso plano acima e coloque dentro do obisidian no vault:
 
